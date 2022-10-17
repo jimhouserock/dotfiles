@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jim_house_rock@hotmail.com
+	name = Jimmy Lin
